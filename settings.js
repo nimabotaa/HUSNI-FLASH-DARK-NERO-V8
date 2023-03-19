@@ -16,24 +16,24 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.ANTI_BADWORD = 'true' // true of false
 global.AUTO_REACT = 'false' // true of false
-global.INBOX_BLOCK_MSG ='BLOCK !!!'
-global.INBOX_BLOCK = 'off' //inbox block
-global.alivemsg = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ʙᴏᴛ'
-global.alivepic = 'https://i.ibb.co/zFYBPcQ/IMG-20230226-WA0115.jpg '
-global.owner = ['0786802371'] //ur owner number
-global.ownername = "kaveesha" //ur owner name
-global.ytname = "YT: Dark" //ur yt chanel name
+global.INBOX_BLOCK_MSG ='Hellow cuddah 🎯 follow 1st & you can bot use💞👉 https://instagram.com/husniflash?igshid=ZDdkNTZiNTM='
+global.INBOX_BLOCK = 'on' //inbox block
+global.alivemsg = 'ᴅᴀʀᴋ-FLASH ʙᴏᴛ'
+global.alivepic = 'https://i.ibb.co/MVVXNYT/Whats-App-Image-2023-02-16-at-08-14-53.jpg'
+global.owner = ['0719034233'] //ur owner number
+global.ownername = "husni" //ur owner name
+global.ytname = "YT: husni flash" //ur yt chanel name
 global.socialm = "GitHub: Dark" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.session = " " //session Id
-global.ownernomer = "94786802371" //ur number
-global.lang = "SI" //Select Language "EN" to English "SI" to sinhala 
-global.premium = ['94786802371'] //ur premium number
-global.botname = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ᴡʜᴀᴛʜᴀᴘᴘ ʙᴏᴛ' //ur bot name
-global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
+global.session = "dWlYaXZGODk= " //session Id
+global.ownernomer = "94719034233" //ur number
+global.lang = "EN" //Select Language "EN" to English "SI" to sinhala 
+global.premium = ['94719034233'] //ur premium number
+global.botname = 'ᴅᴀʀᴋ-ɴᴇʀᴏ FLASH ᴡʜᴀᴛʜᴀᴘᴘ ʙᴏᴛ' //ur bot name
+global.linkz = "https://instagram.com/husniflash?igshid=ZDdkNTZiNTM=" //your theme url which will be displayed on whatsapp
+global.websitex = "https://instagram.com/husniflash?igshid=ZDdkNTZiNTM=" //ur website to be displayed
 global.botscript = 'https://www.darknero.ga/' //script link
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Dark Nero By" //ur sticker watermark packname
